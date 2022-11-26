@@ -43,6 +43,10 @@ strong {
   color: hsl(160deg, 100%, 30%);
 }
 
+em {
+  font-style: normal;
+}
+
 main {
   background-color: #666666;
   border-top: 8px solid hsl(0deg, 0%, 60%);
